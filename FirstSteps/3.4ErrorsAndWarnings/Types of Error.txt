@@ -1,0 +1,2 @@
+1.Compile Time Error
+2.Runtime Error

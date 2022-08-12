@@ -1,0 +1,12 @@
+Core
+Basic rules of a programs like uses of (),{},[] are different 
+Foundation of C++
+
+Standard Library
+Predefined functions defined under header files like iostream
+Designed to work in program very fast
+
+STL(Standard Template Library)
+Containers
+Algoritms or functions
+Can learn later!!!

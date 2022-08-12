@@ -1,0 +1,8 @@
+char
+int
+float
+double
+
+bool
+void
+auto : Keyword used to 
